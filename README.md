@@ -1,4 +1,4 @@
-# asimovgw
+# GWparents
 
 GWparents is a python package for GWs multi-channel analyses based on [S. Mastrogiovanni arXiv XXX](link).
 
